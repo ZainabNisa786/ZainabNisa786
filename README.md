@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ZainabNisa786
-- Name, Zainab Nisa
+- 👋 Hi, I’m Zainab NISA
 - 👀 I’m interested in learning development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on codeing+development
+- 🌱 I’m currently learning HTML==CSS==JS :)
+- 💞️ Future dream to be a MERN-STACK Developer
 - 📫 How to reach me ...
 
 <!---
