@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS, how to get start:)**
 
-- ⚡ Fun fact **I really like to share what I have knew**
+- ⚡ Fun fact **Sharing what I know is one of my favorite things to do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
