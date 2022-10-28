@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zainab_nisa786" target="blank"><img src="https://img.shields.io/twitter/follow/zainab_nisa786?logo=twitter&style=for-the-badge" alt="zainab_nisa786" /></a> </p>
 
-- 🌱 I’m currently learning HTML, CSS, JS **@freecodecamp @w3school @KavinPowel**
+- 🌱 I’m currently learning HTML, CSS, JS   **@freecodecamp   @w3school   @KavinPowel**
+
+- ➡️ Future dream is to be a MERN-STACK developer:)**
 
 - 💬 Ask me about **HTML,CSS, how to get start:)**
 
