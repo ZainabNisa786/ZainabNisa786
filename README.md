@@ -7,9 +7,9 @@
 
 - ➡️ Future dream is to be a MERN-STACK developer:)**
 
-- 💬 Ask me about **HTML,CSS, how to get start:)**
+- 💬 Ask me about **HTML,CSS, web-development:)**
 
-- ⚡ Fun fact **Sharing what I know is one of my favorite things to do**
+- ⚡ **Love To Share My Knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
