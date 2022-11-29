@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab Nisa</h1>
 <h3 align="center">A passionate about learning web-development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabnisa786&label=Profile%20views&color=0e75b6&style=flat" alt="zainabnisa786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabnisa786" alt="zainabnisa786" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zainab_nisa786" target="blank"><img src="https://img.shields.io/twitter/follow/zainab_nisa786?logo=twitter&style=for-the-badge" alt="zainab_nisa786" /></a> </p>
 
 - 🌱 I’m currently learning HTML, CSS, JS  <br>➡️  **@freecodecamp   @w3school   @KavinPowel**
 
